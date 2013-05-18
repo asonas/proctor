@@ -1,6 +1,6 @@
 defaults: &defaults
   proctor:
-    api_host: "http://old.api/"
+    api_host: "http://old.api"
     like:
       Comment: "/comment/%s"
       Favorite: "/favorite/%s"
